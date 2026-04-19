@@ -88,6 +88,7 @@ Sou um Arquiteto de Software com uma trajetória singular que une a precisão da
 ## 📫 Vamos nos conectar?
 
 - 📧 [E-mail](mailto:colares.caio@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/caio-colares/)
 - 📍 Fortaleza, CE - Brasil
 
 ---
