@@ -2,7 +2,6 @@
 
 ### Red Hat Certified Engineer/Architect in Cloud-native Applications
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dead7023-2dd7-4d92-b03b-3faa62422004" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 Sou um Arquiteto de Software com uma trajetória singular que une a precisão da **Engenharia de Produção** à escalabilidade da **Arquitetura Distribuída**. Com mais de 15 anos de experiência, minha missão é transformar processos de negócio complexos (Industriais, Logísticos e Financeiros) em soluções digitais resilientes e de alta performance.
 
