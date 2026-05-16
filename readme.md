@@ -1,6 +1,8 @@
 # Olá, eu sou o Caio Colares 👋
 
-### Senior Software Architect | Engineering Manager | Cloud Native Specialist
+### Red Hat Certified Engineer/Architect in Cloud-native Applications
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="dead7023-2dd7-4d92-b03b-3faa62422004" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 Sou um Arquiteto de Software com uma trajetória singular que une a precisão da **Engenharia de Produção** à escalabilidade da **Arquitetura Distribuída**. Com mais de 15 anos de experiência, minha missão é transformar processos de negócio complexos (Industriais, Logísticos e Financeiros) em soluções digitais resilientes e de alta performance.
 
@@ -67,11 +69,13 @@ Sou um Arquiteto de Software com uma trajetória singular que une a precisão da
 ## 🏆 Certificações
 
 - **Red Hat Certified Specialist:**
-  - Cloud-native Integration (EX221)
-  - OpenShift Application Development (EX288)
-  - Containers (EX188)
-  - Cloud-Native Developer (EX378)
-  - Event-Driven Application Development (EX482)
+  - Red Hat Certified Architect in Cloud-native Applications
+  - Red Hat Certified Engineer in Cloud-native Applications
+  - Red Hat Certified Specialist in Cloud-native Integration (EX221)
+  - Red Hat Certified Advanced Developer in Cloud-native Applications (EX288)
+  - Red Hat Certified Developer in Cloud-native Applications (EX188)
+  - Red Hat Certified Specialist in Cloud-native Development (EX378)
+  - Red Hat Certified Specialist in Event-Driven Application Development (EX482)
 
 ---
 
